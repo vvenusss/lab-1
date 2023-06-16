@@ -1,1 +1,1 @@
-print("now")
+print("nowaiot")
